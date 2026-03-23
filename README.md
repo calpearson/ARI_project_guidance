@@ -48,16 +48,53 @@ Example:
 | COMPLETION | DD-MM-YYYY |    |    |
 
 
+## 5. Roles & Responsibilities (Who Will Work on What)
+•	Identify each team member’s role.
+•	Clarify ownership of: 
+o	Data extraction
+o	Data cleaning
+o	Analysis
+o	Visualisation
+o	Interpretation
+o	Draft writing
+## 6. Barriers, Constraints & Dependencies
+•	You need to list all potential barriers to getting this project completed.
+•	Include areas such as: 
+o	Data access delays
+o	Competing priorities
+o	Reliance on other teams
+o	Technical system constraints
+o	Approvals needed
+o	AL
 
 
+## 7. Actions List
+Catchup meeting 1: dd-mm-yyyy
 
+| Grouper (This is e.g. for section 1 of a report or you can split into methodology etc) 	| Action (Keep very specific) |	Assignment (who is this assigned too)	| When to be completed |
+|-----------|---------------------|-------------------|---------------|
+|    |    |    |    |
+|    |    |    |    |
+|    |    |    |    |
+|    |    |    |    |
 
+Catchup meeting 2: dd-mm-yyyy
 
+| Grouper (This is e.g. for section 1 of a report or you can split into methodology etc) 	| Action (Keep very specific) |	Assignment (who is this assigned too)	| When to be completed |
+|-----------|---------------------|-------------------|---------------|
+|    |    |    |    |
+|    |    |    |    |
+|    |    |    |    |
+|    |    |    |    |
 
+Catchup meeting 3: dd-mm-yyyy
 
-
-
-
+| Grouper (This is e.g. for section 1 of a report or you can split into methodology etc) 	| Action (Keep very specific) |	Assignment (who is this assigned too)	| When to be completed |
+|-----------|---------------------|-------------------|---------------|
+|    |    |    |    |
+|    |    |    |    |
+|    |    |    |    |
+|    |    |    |    |
 
 
 
