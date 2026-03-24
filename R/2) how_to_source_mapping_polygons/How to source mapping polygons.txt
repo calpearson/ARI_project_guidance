@@ -1,0 +1,62 @@
+Where to go for Polygons of all different sizes globally and UK
+
+We will be using GADM files of a country which can be found in the following link. https://gadm.org/data.html#google_vignette
+
+- you will need click either
+  - You can download the spatial data by country.
+  - Downloading by country is the recommended approach. You can also download the data for the entire world.
+
+The world data is very large
+
+GADM DATA DICTIONARY (NAME Fields)
+
+NAME_0
+- Administrative Level 0
+- Country name (national boundary)
+
+NAME_1
+- Administrative Level 1
+- First-level subdivision (e.g., Region, State, Province)
+
+NAME_2
+- Administrative Level 2
+- Second-level subdivision (e.g., District, County)
+
+NAME_3
+- Administrative Level 3
+- Third-level subdivision (e.g., Municipality, Sub-district)
+
+NAME_4
+- Administrative Level 4
+- Fourth-level subdivision (e.g., Commune, Township)
+
+NAME_5
+- Administrative Level 5
+- Fifth-level subdivision (e.g., Village, Hamlet)
+
+
+ADDITIONAL COMMON FIELDS
+
+GID_0 ... GID_5
+- Unique stable identifiers for each administrative level
+- Hierarchical codes created by concatenating ISO3 country codes and subdivision numbers
+- Example pattern: AFG.1.2_1
+- GID system described in GADM metadata
+
+TYPE_0 ... TYPE_5
+- Local administrative unit type (e.g., "Region", "District")
+
+ENGTYPE_0 ... ENGTYPE_5
+- English version of administrative unit type
+
+VARNAME_0 ... VARNAME_5
+- Alternative or historical names for administrative units
+
+HASC_0 ... HASC_5
+- Hierarchical administrative codes (available for some countries)
+
+
+NOTES
+- GADM supports up to 5 levels of subnational divisions, depending on the country.
+- Not all countries have all levels (some stop at 1, 2, or 3).
+- Attribute naming is consistent across all countries.
